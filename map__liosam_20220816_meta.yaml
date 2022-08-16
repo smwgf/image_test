@@ -1,0 +1,13 @@
+free_thresh: 0.5
+image: map.pgm
+mapalign: 1.67
+mapsize:
+- 1010
+- 1331
+negate: 0
+occupied_thresh: 0.5
+origin:
+- -47.64484122404891
+- -50.90392490545606
+- 0.0
+resolution: 0.1
